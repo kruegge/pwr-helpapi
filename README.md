@@ -6,3 +6,6 @@ code is located in the package "malo"
 
     request: 
         curl -X GET localhost:8022/malo
+
+## run local
+    go run main.go
